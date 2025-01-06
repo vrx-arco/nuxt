@@ -9,7 +9,7 @@
 [![npm version](https://img.shields.io/npm/v/@vrx-arco/nuxt?color=orange)](https://npmjs.com/package/@vrx-arco/nuxt)
 [![npm downloads](https://img.shields.io/npm/dm/@vrx-arco/nuxt?color=orange)](https://npm.chart.dev/@vrx-arco/nuxt)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/@vrx-arco/nuxt?color=orange)](https://bundlephobia.com/package/@vrx-arco/nuxt)
-[![license](https://img.shields.io/github/license/vrx-arco/arco-design-pro?color=orange)](https://github.com/vrx-arco/arco-design-pro/blob/true/LICENSE)
+[![license](https://img.shields.io/github/license/vrx-arco/nuxt?color=orange)](https://github.com/vrx-arco/nuxt/blob/true/LICENSE)
 
 <!-- /automd -->
 
@@ -74,11 +74,11 @@ export default defineNuxtConfig({
 ## 贡献者
 <!-- automd:contributors author="Colourlessglow" license="MIT" -->
 
-Published under the [MIT](https://github.com/vrx-arco/arco-design-pro/blob/main/LICENSE) license.
-Made by [@Colourlessglow](https://github.com/Colourlessglow) and [community](https://github.com/vrx-arco/arco-design-pro/graphs/contributors) 💛
+Published under the [MIT](https://github.com/vrx-arco/nuxt/blob/main/LICENSE) license.
+Made by [@Colourlessglow](https://github.com/Colourlessglow) and [community](https://github.com/vrx-arco/nuxt/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/vrx-arco/arco-design-pro/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=vrx-arco/arco-design-pro" />
+<a href="https://github.com/vrx-arco/nuxt/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=vrx-arco/nuxt" />
 </a>
 
 <!-- /automd -->
