@@ -9,6 +9,7 @@
 [![npm version](https://img.shields.io/npm/v/@vrx-arco/nuxt?color=orange)](https://npmjs.com/package/@vrx-arco/nuxt)
 [![npm downloads](https://img.shields.io/npm/dm/@vrx-arco/nuxt?color=orange)](https://npm.chart.dev/@vrx-arco/nuxt)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/@vrx-arco/nuxt?color=orange)](https://bundlephobia.com/package/@vrx-arco/nuxt)
+[![install size](https://badgen.net/packagephobia/install/@vrx-arco/nuxt?color=orange)](https://packagephobia.com/result?p=@vrx-arco/nuxt)
 [![license](https://img.shields.io/github/license/vrx-arco/nuxt?color=orange)](https://github.com/vrx-arco/nuxt/blob/true/LICENSE)
 
 <!-- /automd -->
