@@ -1,6 +1,6 @@
 {
   "name": "@vrx-arco/nuxt",
-  "version": "1.10.2",
+  "version": "2.0.0",
   "license": "MIT",
   "packageManager": "pnpm@10.11.0",
   "type": "module",
